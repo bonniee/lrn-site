@@ -1,10 +1,10 @@
 title: Learning React Native
 description: Resources, articles, and updates for Learning React Native
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://bonniee.github.com/lrn-site
 baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: posts/:title/
 
 markdown: redcarpet
 highlighter: pygments
